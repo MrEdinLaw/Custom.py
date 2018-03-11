@@ -1,2 +1,1 @@
-# PythonCust
-Python custom scripts
+# Custom .py Scripts
